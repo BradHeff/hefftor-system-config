@@ -2,7 +2,7 @@
 Operation = Install
 Operation = Upgrade
 Type = Package
-Target = arcolinux-system-config-git
+Target = hefftor-system-config-git
 
 [Action]
 Description = Change to Hefftorlinux specific logo
